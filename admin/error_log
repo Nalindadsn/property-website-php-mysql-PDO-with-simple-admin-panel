@@ -1,0 +1,6 @@
+[13-Jan-2025 15:45:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'tfxltioudc_sjndb'@'server25.shared.spaceship.host' (using password: YES) in /home/tfxltioudc/sjnproperty.com/admin/conn.php:2
+Stack trace:
+#0 /home/tfxltioudc/sjnproperty.com/admin/conn.php(2): PDO->__construct()
+#1 {main}
+  thrown in /home/tfxltioudc/sjnproperty.com/admin/conn.php on line 2
+[18-Jan-2025 08:19:29 UTC] PHP Warning:  Undefined array key "user" in /home/tfxltioudc/sjnproperty.com/admin/home.php on line 10
