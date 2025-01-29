@@ -23,7 +23,7 @@
  <nav class="navbar navbar-inverse rounded-0" style="border-radius:0">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="index.php">SJProperty</a>
+      <a class="navbar-brand" href="index.php">ABCProperty</a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="../">Home</a></li>

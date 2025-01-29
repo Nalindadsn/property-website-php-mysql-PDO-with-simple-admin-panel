@@ -15,7 +15,7 @@
 <body>
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="../index.php">SJProperty</a>
+			<a class="navbar-brand" href="../index.php">ABCProperty</a>
 		</div>
 	</nav>
 	<div class="col-md-3"></div>

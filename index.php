@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>SJProperty - Real Estate </title>
+    <title>ABCProperty - Real Estate </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -44,7 +44,7 @@
                     <div class="icon p-2 me-2">
                         <img class="img-fluid" src="img/icon-deal.png" alt="Icon" style="width: 70px; height: 70px;">
                     </div>
-                    <h1 class="m-0 text-primary">SJProperty</h1>
+                    <h1 class="m-0 text-primary">ABCProperty</h1>
                 </a>
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
@@ -119,7 +119,7 @@
                                         <div class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3"><?php echo $row['type']?></div>
                                     </div>
                                     <div class="p-4 pb-0">
-                                    <h5 class="text-primary mb-3">LKR <?php echo $row['price']?></h5>
+                                    <h5 class="text-primary mb-3">$ <?php echo $row['price']?></h5>
                                         <a class="d-block h5 mb-2"  href="post.php?id=<?php echo $row['id']?>"><?php echo $row['title']?></a>
                                         <p><i class="fa fa-map-marker-alt text-primary me-2"></i><?php echo $row['location']?></p>
 
@@ -151,11 +151,11 @@
                 <div class="row g-5">
                     <div class="col-lg-9 col-md-9">
                         <h5 class="text-white mb-4">Get In Touch</h5>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>No 15, Public Market Complex, Station Road, Wadduwa </p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+9477 3489820 /+9477 8552265 </p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>No 15,  Colombo </p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+94704238939 </p>
                         <p class="mb-2"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="M240-400h320v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM80-80v-720q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v480q0 33-23.5 56.5T800-240H240L80-80Zm126-240h594v-480H160v525l46-45Zm-46 0v-480 480Z"/></svg
-                        >  Whatsapp : +94701012070 </p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>sjppt@gmail.com</p>
+                        >  Whatsapp : +94704238939 </p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>nalindadsn@gmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-facebook-f"></i></a>
